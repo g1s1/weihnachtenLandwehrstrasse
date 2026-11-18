@@ -1,0 +1,22 @@
+# macOS / iCloud
+.DS_Store
+._*
+*.icloud
+Icon?
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Secrets (never commit service_role keys or passwords)
+.env
+.env.*
+passwords.txt
+
+# Supabase CLI local files
+supabase/.temp/
+supabase/.branches/
+
+# Claude Code local settings
+.claude/settings.local.json
