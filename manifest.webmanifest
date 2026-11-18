@@ -1,0 +1,12 @@
+{
+  "name":"Weihnachtsmenü in der Landwehrstrasse",
+  "short_name":"Weihnachtsmenü",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#3b1119",
+  "theme_color":"#3b1119",
+  "lang":"de",
+  "icons":[
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
